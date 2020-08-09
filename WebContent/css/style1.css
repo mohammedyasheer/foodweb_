@@ -1,0 +1,43 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: "raleway";}
+    
+    p{
+       background-color:Tomato;
+    }
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=631&q=80");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ <!--SignIn Page -->
+ body, html {
+  height: 100%;
+}
+.col-lg-6{
+	border:none;
+}
+.bg1 {
+  /* The image used */
+  background-image: url("https://www.tasteofhome.com/wp-content/uploads/2018/08/DIYD_BLB_194360_071618_Thumb-1200x1080.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
